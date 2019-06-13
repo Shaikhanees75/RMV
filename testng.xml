@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="none">
+  <test name="Test">
+    <classes>
+     <class name="com.RM.Main_Scripts.Add_New_User_Main_Test"/>
+     <!--  <class name="com.RM.Main_Scripts.XNARF_Task_Main"/>
+      <class name="com.RM.Main_Scripts.OB_NewHire_Main"/>
+      <class name="com.RM.Main_Scripts.Leave_Request_Complete_Main"/>
+      <class name="com.RM.Main_Scripts.Employee_Information_Main"/>
+      <class name="com.RM.Main_Scripts.Skill_WTCG_Main"/>
+      <class name="com.RM.Main_Scripts.Leave_apply_test"/>
+      <class name="com.RM.Main_Scripts.XNARF_TR_Main"/>
+      <class name="com.RM.Main_Scripts.Project_Project_type_Main"/>
+      <class name="com.RM.Main_Scripts.Leave_Approval_Main"/>
+      <class name="com.RM.Main_Scripts.Skill_Workflow_Main"/>
+      <class name="com.RM.Main_Scripts.Project_Deatils_Main"/>
+      <class name="com.RM.Main_Scripts.XnarfMainPage_Main"/>
+      <class name="com.RM.Main_Scripts.Project_Project_POC_Main"/>
+      <class name="com.RM.Main_Scripts.Skill_Change_Request_Main"/>
+      <class name="com.RM.Main_Scripts.Skill_Work_Type_Main"/>
+      <class name="com.RM.Generic.common_methods"/>
+      <class name="com.RM.Main_Scripts.Skill_Competency_Main"/>
+      <class name="com.RM.Main_Scripts.XNARF_TF_Main"/>
+      <class name="com.RM.Main_Scripts.Time_Card_Main"/>
+      <class name="com.RM.Main_Scripts.RM_NewHire__Main"/>
+      <class name="com.RM.Main_Scripts.WP_New_Hire_Main"/>
+      <class name="com.RM.Main_Scripts.Change_Seat_Main"/>
+      <class name="com.RM.Main_Scripts.WPS_New_Hire_Main"/>-->
+      
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

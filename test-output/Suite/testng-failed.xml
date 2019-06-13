@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="-1" guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test name="test(failed)">
+    <classes>
+      <class name="com.RM.Main_Scripts.WPS_New_Hire_Main">
+        <methods>
+          <include name="Browser_set"/>
+          <include name="tearDown"/>
+          <include name="Xnarf_WPS"/>
+        </methods>
+      </class> <!-- com.RM.Main_Scripts.WPS_New_Hire_Main -->
+    </classes>
+  </test> <!-- test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

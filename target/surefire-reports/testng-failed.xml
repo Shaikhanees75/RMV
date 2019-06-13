@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Suite]">
+  <test name="Test(failed)">
+    <classes>
+      <class name="com.RM.Main_Scripts.Add_New_User_Main_Test">
+        <methods>
+          <include name="Set_UP"/>
+          <include name="Go_to_Menu"/>
+          <include name="tearDown"/>
+          <include name="Add_New_user_Data_Entry" invocation-numbers="3"/>
+          <include name="Mandatory_Check"/>
+        </methods>
+      </class> <!-- com.RM.Main_Scripts.Add_New_User_Main_Test -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

@@ -1,0 +1,1197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="85888" started-at="2019-05-14T09:46:31Z" finished-at="2019-05-14T09:47:57Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="85888" started-at="2019-05-14T09:46:31Z" finished-at="2019-05-14T09:47:57Z">
+      <class name="com.RM.Main_Scripts.Add_New_User_Main_Test">
+        <test-method status="PASS" signature="Set_UP()[pri:0, instance:com.RM.Main_Scripts.Add_New_User_Main_Test@8b7f67]" name="Set_UP" is-config="true" duration-ms="30416" started-at="2019-05-14T15:16:31Z" finished-at="2019-05-14T15:17:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Set_UP -->
+        <test-method status="PASS" signature="Go_to_Menu()[pri:1, instance:com.RM.Main_Scripts.Add_New_User_Main_Test@8b7f67]" name="Go_to_Menu" duration-ms="18042" started-at="2019-05-14T15:17:02Z" finished-at="2019-05-14T15:17:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Go_to_Menu -->
+        <test-method status="PASS" signature="Add_New_user_Data_Entry(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:com.RM.Main_Scripts.Add_New_User_Main_Test@8b7f67]" name="Add_New_user_Data_Entry" duration-ms="0" started-at="2019-05-14T15:17:21Z" data-provider="Add_NEW_USER" finished-at="2019-05-14T15:17:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[N]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Add User and Detials]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Add User and Detials]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[AUTOTEST4]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Mr.]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[No]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[AutoOne]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Middle]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[LastOne]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[AutomaticOne]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[AUTOTEST1]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[11257781]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[11257781]]>
+              </value>
+            </param>
+            <param index="13">
+              <value>
+                <![CDATA[1/1/2017]]>
+              </value>
+            </param>
+            <param index="14">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+            <param index="15">
+              <value>
+                <![CDATA[1/1/2017]]>
+              </value>
+            </param>
+            <param index="16">
+              <value>
+                <![CDATA[Resi Mortgage Default]]>
+              </value>
+            </param>
+            <param index="17">
+              <value>
+                <![CDATA[FNMA]]>
+              </value>
+            </param>
+            <param index="18">
+              <value>
+                <![CDATA[New]]>
+              </value>
+            </param>
+            <param index="19">
+              <value>
+                <![CDATA[ASD]]>
+              </value>
+            </param>
+            <param index="20">
+              <value>
+                <![CDATA[Associate]]>
+              </value>
+            </param>
+            <param index="21">
+              <value>
+                <![CDATA[SA-Babcock]]>
+              </value>
+            </param>
+            <param index="22">
+              <value>
+                <![CDATA[Training-Seat]]>
+              </value>
+            </param>
+            <param index="23">
+              <value>
+                <![CDATA[Automation]]>
+              </value>
+            </param>
+            <param index="24">
+              <value>
+                <![CDATA[New123]]>
+              </value>
+            </param>
+            <param index="25">
+              <value>
+                <![CDATA[Service Provider]]>
+              </value>
+            </param>
+            <param index="26">
+              <value>
+                <![CDATA[OJT]]>
+              </value>
+            </param>
+            <param index="27">
+              <value>
+                <![CDATA[3/1/2017]]>
+              </value>
+            </param>
+            <param index="28">
+              <value>
+                <![CDATA[automato.guy]]>
+              </value>
+            </param>
+            <param index="29">
+              <value>
+                <![CDATA[automato.guy]]>
+              </value>
+            </param>
+            <param index="30">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+            <param index="31">
+              <value>
+                <![CDATA[new123$]]>
+              </value>
+            </param>
+            <param index="32">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+            <param index="33">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="34">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="35">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="36">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="37">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="38">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="39">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="40">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="41">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="42">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="43">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="44">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="45">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="46">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="47">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="48">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="49">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="50">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="51">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="52">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="53">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="54">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="55">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="56">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Add_New_user_Data_Entry -->
+        <test-method status="PASS" signature="Add_New_user_Data_Entry(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:com.RM.Main_Scripts.Add_New_User_Main_Test@8b7f67]" name="Add_New_user_Data_Entry" duration-ms="0" started-at="2019-05-14T15:17:21Z" data-provider="Add_NEW_USER" finished-at="2019-05-14T15:17:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[N]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Mandatory Check]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Mandatory Check]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="13">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="14">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="15">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="16">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="17">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="18">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="19">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="20">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="21">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="22">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="23">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="24">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="25">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="26">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="27">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="28">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="29">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="30">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="31">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="32">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="33">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="34">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="35">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="36">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="37">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="38">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="39">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="40">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="41">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="42">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="43">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="44">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="45">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="46">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="47">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="48">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="49">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="50">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="51">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="52">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="53">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="54">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="55">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="56">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Add_New_user_Data_Entry -->
+        <test-method status="PASS" signature="Add_New_user_Data_Entry(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:com.RM.Main_Scripts.Add_New_User_Main_Test@8b7f67]" name="Add_New_user_Data_Entry" duration-ms="0" started-at="2019-05-14T15:17:21Z" data-provider="Add_NEW_USER" finished-at="2019-05-14T15:17:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[n]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Add User and ContactInfo Detials]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Add User and ContactInfo Detials]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[AUTOTEST7]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Mr.]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[No]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[AutoSeven]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Middle]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[LastOne]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[AutomaticOne]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[AUTOTEST7]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[11257781]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[11257781]]>
+              </value>
+            </param>
+            <param index="13">
+              <value>
+                <![CDATA[3/1/2017]]>
+              </value>
+            </param>
+            <param index="14">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+            <param index="15">
+              <value>
+                <![CDATA[3/1/2017]]>
+              </value>
+            </param>
+            <param index="16">
+              <value>
+                <![CDATA[Resi Mortgage Default]]>
+              </value>
+            </param>
+            <param index="17">
+              <value>
+                <![CDATA[FNMA]]>
+              </value>
+            </param>
+            <param index="18">
+              <value>
+                <![CDATA[New]]>
+              </value>
+            </param>
+            <param index="19">
+              <value>
+                <![CDATA[ASD]]>
+              </value>
+            </param>
+            <param index="20">
+              <value>
+                <![CDATA[Associate]]>
+              </value>
+            </param>
+            <param index="21">
+              <value>
+                <![CDATA[SA-Babcock]]>
+              </value>
+            </param>
+            <param index="22">
+              <value>
+                <![CDATA[Training-Seat]]>
+              </value>
+            </param>
+            <param index="23">
+              <value>
+                <![CDATA[Automation]]>
+              </value>
+            </param>
+            <param index="24">
+              <value>
+                <![CDATA[New123]]>
+              </value>
+            </param>
+            <param index="25">
+              <value>
+                <![CDATA[Service Provider]]>
+              </value>
+            </param>
+            <param index="26">
+              <value>
+                <![CDATA[OJT]]>
+              </value>
+            </param>
+            <param index="27">
+              <value>
+                <![CDATA[3/1/2017]]>
+              </value>
+            </param>
+            <param index="28">
+              <value>
+                <![CDATA[autoeven.guy]]>
+              </value>
+            </param>
+            <param index="29">
+              <value>
+                <![CDATA[aufisixo.guy]]>
+              </value>
+            </param>
+            <param index="30">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+            <param index="31">
+              <value>
+                <![CDATA[new123$]]>
+              </value>
+            </param>
+            <param index="32">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+            <param index="33">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+            <param index="34">
+              <value>
+                <![CDATA[Work]]>
+              </value>
+            </param>
+            <param index="35">
+              <value>
+                <![CDATA[autoeven.guy@acc.in]]>
+              </value>
+            </param>
+            <param index="36">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+            <param index="37">
+              <value>
+                <![CDATA[WORK]]>
+              </value>
+            </param>
+            <param index="38">
+              <value>
+                <![CDATA[123]]>
+              </value>
+            </param>
+            <param index="39">
+              <value>
+                <![CDATA[123]]>
+              </value>
+            </param>
+            <param index="40">
+              <value>
+                <![CDATA[12]]>
+              </value>
+            </param>
+            <param index="41">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+            <param index="42">
+              <value>
+                <![CDATA[WORK]]>
+              </value>
+            </param>
+            <param index="43">
+              <value>
+                <![CDATA[ABCD]]>
+              </value>
+            </param>
+            <param index="44">
+              <value>
+                <![CDATA[ABCD]]>
+              </value>
+            </param>
+            <param index="45">
+              <value>
+                <![CDATA[ABCD]]>
+              </value>
+            </param>
+            <param index="46">
+              <value>
+                <![CDATA[ABCD]]>
+              </value>
+            </param>
+            <param index="47">
+              <value>
+                <![CDATA[ABCD]]>
+              </value>
+            </param>
+            <param index="48">
+              <value>
+                <![CDATA[ABCD]]>
+              </value>
+            </param>
+            <param index="49">
+              <value>
+                <![CDATA[123123]]>
+              </value>
+            </param>
+            <param index="50">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+            <param index="51">
+              <value>
+                <![CDATA[3-3-1995]]>
+              </value>
+            </param>
+            <param index="52">
+              <value>
+                <![CDATA[Married]]>
+              </value>
+            </param>
+            <param index="53">
+              <value>
+                <![CDATA[3-3-2023]]>
+              </value>
+            </param>
+            <param index="54">
+              <value>
+                <![CDATA[1232131]]>
+              </value>
+            </param>
+            <param index="55">
+              <value>
+                <![CDATA[autoeven.guy]]>
+              </value>
+            </param>
+            <param index="56">
+              <value>
+                <![CDATA[abc,adf]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Add_New_user_Data_Entry -->
+        <test-method status="PASS" signature="Add_New_user_Data_Entry(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:com.RM.Main_Scripts.Add_New_User_Main_Test@8b7f67]" name="Add_New_user_Data_Entry" duration-ms="15356" started-at="2019-05-14T15:17:21Z" data-provider="Add_NEW_USER" finished-at="2019-05-14T15:17:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Add Other Detials]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Add User and ContactInfo Detials]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[AUTOTEST7]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Mr.]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[No]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[AutoSeven]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Middle]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[LastOne]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[AutomaticOne]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[AUTOTEST7]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[11257781]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[11257781]]>
+              </value>
+            </param>
+            <param index="13">
+              <value>
+                <![CDATA[3/1/2017]]>
+              </value>
+            </param>
+            <param index="14">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+            <param index="15">
+              <value>
+                <![CDATA[3/1/2017]]>
+              </value>
+            </param>
+            <param index="16">
+              <value>
+                <![CDATA[Resi Mortgage Default]]>
+              </value>
+            </param>
+            <param index="17">
+              <value>
+                <![CDATA[FNMA]]>
+              </value>
+            </param>
+            <param index="18">
+              <value>
+                <![CDATA[New]]>
+              </value>
+            </param>
+            <param index="19">
+              <value>
+                <![CDATA[ASD]]>
+              </value>
+            </param>
+            <param index="20">
+              <value>
+                <![CDATA[Associate]]>
+              </value>
+            </param>
+            <param index="21">
+              <value>
+                <![CDATA[SA-Babcock]]>
+              </value>
+            </param>
+            <param index="22">
+              <value>
+                <![CDATA[Training-Seat]]>
+              </value>
+            </param>
+            <param index="23">
+              <value>
+                <![CDATA[Automation]]>
+              </value>
+            </param>
+            <param index="24">
+              <value>
+                <![CDATA[New123]]>
+              </value>
+            </param>
+            <param index="25">
+              <value>
+                <![CDATA[Service Provider]]>
+              </value>
+            </param>
+            <param index="26">
+              <value>
+                <![CDATA[OJT]]>
+              </value>
+            </param>
+            <param index="27">
+              <value>
+                <![CDATA[3/1/2017]]>
+              </value>
+            </param>
+            <param index="28">
+              <value>
+                <![CDATA[autoeven.guy]]>
+              </value>
+            </param>
+            <param index="29">
+              <value>
+                <![CDATA[aufisixo.guy]]>
+              </value>
+            </param>
+            <param index="30">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+            <param index="31">
+              <value>
+                <![CDATA[new123$]]>
+              </value>
+            </param>
+            <param index="32">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+            <param index="33">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+            <param index="34">
+              <value>
+                <![CDATA[Work]]>
+              </value>
+            </param>
+            <param index="35">
+              <value>
+                <![CDATA[autoeven.guy@acc.in]]>
+              </value>
+            </param>
+            <param index="36">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+            <param index="37">
+              <value>
+                <![CDATA[WORK]]>
+              </value>
+            </param>
+            <param index="38">
+              <value>
+                <![CDATA[123]]>
+              </value>
+            </param>
+            <param index="39">
+              <value>
+                <![CDATA[123]]>
+              </value>
+            </param>
+            <param index="40">
+              <value>
+                <![CDATA[12]]>
+              </value>
+            </param>
+            <param index="41">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+            <param index="42">
+              <value>
+                <![CDATA[WORK]]>
+              </value>
+            </param>
+            <param index="43">
+              <value>
+                <![CDATA[ABCD]]>
+              </value>
+            </param>
+            <param index="44">
+              <value>
+                <![CDATA[ABCD]]>
+              </value>
+            </param>
+            <param index="45">
+              <value>
+                <![CDATA[ABCD]]>
+              </value>
+            </param>
+            <param index="46">
+              <value>
+                <![CDATA[ABCD]]>
+              </value>
+            </param>
+            <param index="47">
+              <value>
+                <![CDATA[ABCD]]>
+              </value>
+            </param>
+            <param index="48">
+              <value>
+                <![CDATA[ABCD]]>
+              </value>
+            </param>
+            <param index="49">
+              <value>
+                <![CDATA[123123]]>
+              </value>
+            </param>
+            <param index="50">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+            <param index="51">
+              <value>
+                <![CDATA[3-3-1995]]>
+              </value>
+            </param>
+            <param index="52">
+              <value>
+                <![CDATA[Married]]>
+              </value>
+            </param>
+            <param index="53">
+              <value>
+                <![CDATA[3-3-2023]]>
+              </value>
+            </param>
+            <param index="54">
+              <value>
+                <![CDATA[1232131]]>
+              </value>
+            </param>
+            <param index="55">
+              <value>
+                <![CDATA[autoeven.guy]]>
+              </value>
+            </param>
+            <param index="56">
+              <value>
+                <![CDATA[abc,adf]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Add_New_user_Data_Entry -->
+        <test-method status="PASS" signature="Mandatory_Check()[pri:2, instance:com.RM.Main_Scripts.Add_New_User_Main_Test@8b7f67]" name="Mandatory_Check" duration-ms="20328" started-at="2019-05-14T15:17:36Z" finished-at="2019-05-14T15:17:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Mandatory_Check -->
+        <test-method status="PASS" signature="tear()[pri:3, instance:com.RM.Main_Scripts.Add_New_User_Main_Test@8b7f67]" name="tear" duration-ms="533" started-at="2019-05-14T15:17:56Z" finished-at="2019-05-14T15:17:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tear -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.RM.Main_Scripts.Add_New_User_Main_Test@8b7f67]" name="tearDown" is-config="true" duration-ms="281" started-at="2019-05-14T15:17:57Z" finished-at="2019-05-14T15:17:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.RM.Main_Scripts.Add_New_User_Main_Test -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
